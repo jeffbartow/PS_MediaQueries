@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .container div {
+    width: 33%;
+    height: 100px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+  }
+  
+  /**
+    Jeff made this and it's probably wrong...
+  **/
